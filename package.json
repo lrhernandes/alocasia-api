@@ -1,0 +1,25 @@
+{
+  "name": "dev-showcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrhernandes/dev-showcase.git"
+  },
+  "keywords": [],
+  "author": "Lara Hernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrhernandes/dev-showcase/issues"
+  },
+  "homepage": "https://github.com/lrhernandes/dev-showcase#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
